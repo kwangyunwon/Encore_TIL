@@ -36,3 +36,4 @@ JVM은 OS와는 종속적임
 JVM은 바이트코드만을 인식할 수 있음
 C기반은 binary코드이기 때문에 호환이 어려움
 JVM특징 : WriteOnce, Run AnyWhere
+![자바의 구조](https://user-images.githubusercontent.com/43941396/112714946-5c962000-8f20-11eb-8d1d-3094eb5f7d2b.png)
